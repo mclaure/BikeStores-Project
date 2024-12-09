@@ -1,0 +1,7 @@
+BikeStores/bin/
+BikeStores/obj/
+*.dbmdl
+*.dacpac
+*.dll
+*.pdb
+*.cache
