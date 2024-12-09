@@ -1,5 +1,5 @@
-BikeStores/bin/
-BikeStores/obj/
+bin/
+obj/
 .vs/
 *.dbmdl
 *.dacpac
