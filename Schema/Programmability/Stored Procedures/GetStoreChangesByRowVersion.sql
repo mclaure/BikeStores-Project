@@ -5,6 +5,7 @@
 )
 AS
 BEGIN
+	--comment VSC
 	SELECT [store_id]
 		,[store_name]
 		,[phone]
