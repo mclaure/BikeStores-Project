@@ -1,4 +1,5 @@
-﻿CREATE PROCEDURE [dbo].[GetOrdersChangesByRowVersion]
+﻿--comments
+CREATE PROCEDURE [dbo].[GetOrdersChangesByRowVersion]
 (
    @startRow BIGINT 
    ,@endRow  BIGINT 
