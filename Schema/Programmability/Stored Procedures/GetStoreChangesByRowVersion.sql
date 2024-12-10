@@ -5,6 +5,8 @@
 )
 AS
 BEGIN
+
+	-- Adding comments VSC
 	SELECT [store_id]
 		,[store_name]
 		,[phone]
