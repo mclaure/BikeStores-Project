@@ -1,4 +1,5 @@
-﻿DELETE FROM production.stocks;
+﻿--added by alf
+DELETE FROM production.stocks;
 GO
 DELETE FROM sales.order_items;
 GO
