@@ -1,6 +1,6 @@
 ﻿PRINT 'Populating stores table';
 SET NOCOUNT ON;
-
+--added by alf
 SET IDENTITY_INSERT sales.stores ON;  
 
 INSERT INTO sales.stores(store_id, store_name, phone, email, street, city, state, zip_code) VALUES(1,'Santa Cruz Bikes','(831) 476-4321','santacruz@bikes.shop','3700 Portola Drive', 'Santa Cruz','CA',95060);
