@@ -82,6 +82,7 @@
     <Build Include="Schema\Tables\stores.sql" />
     <Build Include="Schema\Security\Schemas\production.sql" />
     <Build Include="Schema\Security\Schemas\sales.sql" />
+    <Build Include="Schema\Programmability\Stored Procedures\GetBrands.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\brands.data.sql" />
